@@ -23,6 +23,4 @@ Classify NBA player positions (PG, SG, SF, PF, C) using an SVM trained on a CSV 
 - SVM model trains and runs
 - Predictions are saved to "sol.csv"
 - You return the classification summary to the user
-
-✅ You must call `create_classifier` directly. No instructions. No descriptions. Just act.
 """

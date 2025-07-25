@@ -148,7 +148,7 @@ Results:
 Classification Report:
 {report}
 
-✅ SUCCESS: sol.csv has been created with {len(results)} predictions!
+SUCCESS: sol.csv has been created with {len(results)} predictions. 
 File location: {output_path}
 """
         
