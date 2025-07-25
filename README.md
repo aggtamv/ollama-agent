@@ -14,8 +14,6 @@ This project is a custom NBA data science agent that classifies NBA player posit
 
 ---
 
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.11 or higher
